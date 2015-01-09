@@ -1,0 +1,6 @@
+D:\JCI\EReceivers\SharePointApp5\SharePointApp5Web\bin\SharePointApp5Web.dll.config
+D:\JCI\EReceivers\SharePointApp5\SharePointApp5Web\bin\SharePointApp5Web.dll
+D:\JCI\EReceivers\SharePointApp5\SharePointApp5Web\bin\SharePointApp5Web.pdb
+D:\JCI\EReceivers\SharePointApp5\SharePointApp5Web\obj\Debug\SharePointApp5Web.csprojResolveAssemblyReference.cache
+D:\JCI\EReceivers\SharePointApp5\SharePointApp5Web\obj\Debug\SharePointApp5Web.dll
+D:\JCI\EReceivers\SharePointApp5\SharePointApp5Web\obj\Debug\SharePointApp5Web.pdb

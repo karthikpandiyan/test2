@@ -1,0 +1,3 @@
+D:\JCI\EReceivers\SharePointApp5\SharePointApp5\bin\Debug\SharePointApp5.pdb
+D:\JCI\EReceivers\SharePointApp5\SharePointApp5\obj\Debug\SharePointApp5.dll
+D:\JCI\EReceivers\SharePointApp5\SharePointApp5\obj\Debug\SharePointApp5.pdb
