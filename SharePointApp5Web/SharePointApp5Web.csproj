@@ -85,6 +85,8 @@
     <Content Include="bin\Microsoft.IdentityModel.Extensions.dll" />
     <Content Include="bin\Microsoft.SharePoint.Client.dll" />
     <Content Include="bin\Microsoft.SharePoint.Client.Runtime.dll" />
+    <Content Include="bin\SharePointApp5Web.dll" />
+    <Content Include="bin\SharePointApp5Web.pdb" />
     <Content Include="Global.asax" />
     <Content Include="Pages\Default.aspx" />
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
